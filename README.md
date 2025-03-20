@@ -36,4 +36,4 @@ dataset: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset a
 
 # Data Preparation & Cleaning
 
-[📒 View the Jupyter Notebook](https://github.com/la2n2h/A-Behavioral-Analysis-of-Customer-Spending/blob/main/customer%20behavior_%20Data%20Preparation%20%26%20Cleaning.ipynb)
+[📒 View the Jupyter Notebook](https://github.com/la2n2h/A-Behavioral-Analysis-of-Customer-Spending/blob/main/Data%20Preparation%20%26%20Cleaning.ipynb)
