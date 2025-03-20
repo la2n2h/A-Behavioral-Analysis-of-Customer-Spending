@@ -40,3 +40,10 @@ dataset: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset a
 # Data Preparation & Cleaning
 
 [📒 View the Jupyter Notebook](https://github.com/la2n2h/A-Behavioral-Analysis-of-Customer-Spending/blob/main/Data%20Preparation%20%26%20Cleaning.ipynb)
+
+# Exploratory Data Analysis (EDA)
+Summary Statistics: Analyze describe() for numerical data.
+Visualize Income Distribution & Customer Segments using bar plots.
+Check Correlations between spending patterns and customer attributes.
+
+
