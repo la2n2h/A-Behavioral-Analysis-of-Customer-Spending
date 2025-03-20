@@ -28,8 +28,11 @@ Strategies to increase customer loyalty based on behavioral insights.
 
 Expected Outcomes:
 After the analysis, the company will gain insights into:
+
 ✅ Which customer groups contribute the most to revenue.
+
 ✅ What products should be marketed to each income segment.
+
 ✅ Which geographic areas need strategic focus to maximize sales.
 
 dataset: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset and seft generate more information about location, occupation, imcome level, and membership type.
