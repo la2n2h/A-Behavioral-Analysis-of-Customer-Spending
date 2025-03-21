@@ -37,13 +37,45 @@ After the analysis, the company will gain insights into:
 
 dataset: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset and seft generate more information about location, occupation, imcome level, and membership type.
 
-# Data Preparation & Cleaning
+# DATA PREPARATION AND CLEANING
 
 [📒 View the Jupyter Notebook](https://github.com/la2n2h/A-Behavioral-Analysis-of-Customer-Spending/blob/main/Data%20Preparation%20%26%20Cleaning.ipynb)
 
-# Exploratory Data Analysis (EDA)
-Summary Statistics: Analyze describe() for numerical data.
-Visualize Income Distribution & Customer Segments using bar plots.
-Check Correlations between spending patterns and customer attributes.
+# DATA ANALYSIS
+[ 📒 View the Jupyter Notebook]
 
+### Exploratory Data Analysis (EDA)
+-  Summary Statistics: Analyze describe() for numerical data.
+-  Visualize Income Distribution & Customer Segments using bar plots.
+-  Check Correlations between spending patterns and customer attributes.
+  
+### Customer Spending Behavior Analysis
+-  Average Spending by Income Level
+-  Spending Trends by Membership Type
+-  Most Popular Products per Customer Segment
+
+### Geographic Insights
+- Map Customer Transactions using Latitude & Longitude
+- Find Regional Sales Trends
+- Visualize High-Spending Areas
+
+### Customer Loyalty & Segmentation Analysis
+-  Customer Retention by Membership Type (VIP, Regular, New Customer)
+-  Identify High-Value Customers
+-  Analyze Purchase Frequency by Customer Type
+
+# ACTIONABLE INSIGHTS & RECOMMENDATION
+### Marketing Strategy for Each Customer Segment:
+-  Offer premium services to VIP customer
+-  Personalized discounts for Medium & Low Income customers
+### Inventory & Regional Strategy:
+-  Stock high-demand products based on city-wise sales
+-  Target high-revenue areas for store expansions
+### loyalty Programs Optimization:
+-  Convert Regular customers to VIP with targeted offers
+
+# DASHBOARD CREATION
+-  Create Visual Dashboards in Tableau or Power BI
+-  Summarize Key Insights in a Business Report
+-  Automate Reporting with Python & Jupyter Notebooks
 
