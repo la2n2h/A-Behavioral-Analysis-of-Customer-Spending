@@ -44,6 +44,12 @@ dataset: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset a
 # DATA ANALYSIS
 [ 📒 View the Jupyter Notebook]
 
+### Create functions for Data Analysis
+-  Visualize distribution function.
+-  Visualize boxplot function to identify factors that influence spending patterns.
+-  Visualize plot function to dentify factors customers group by Spending
+-  Create Flexible Summary Table Function
+  
 ### Exploratory Data Analysis (EDA)
 -  Summary Statistics: Analyze describe() for numerical data.
 -  Visualize Income Distribution & Customer Segments using bar plots.
