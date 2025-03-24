@@ -42,7 +42,7 @@ dataset: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset a
 [📒 View the Jupyter Notebook](https://github.com/la2n2h/A-Behavioral-Analysis-of-Customer-Spending/blob/main/Data%20Preparation%20%26%20Cleaning.ipynb)
 
 # DATA ANALYSIS
-[ 📒 View the Jupyter Notebook]
+[ 📒 View the Jupyter Notebook](https://github.com/la2n2h/A-Behavioral-Analysis-of-Customer-Spending/blob/main/Data%20Analysis-%20insights%20and%20recommendation.ipynb)
 
 ### Create functions for Data Analysis
 -  Visualize distribution function.
