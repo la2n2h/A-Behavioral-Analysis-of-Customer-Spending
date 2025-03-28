@@ -85,3 +85,17 @@ dataset: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset a
 -  Summarize Key Insights in a Business Report
 -  Automate Reporting with Python & Jupyter Notebooks
 
+View the interactive Tableau dashboard here: [Customer behavior Dashboard](https://public.tableau.com/views/CustomerBehavior_17428039753660/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![image](https://github.com/user-attachments/assets/b2b2c6e4-703c-4a5f-8f56-63185d38dc93)
+
+![image](https://github.com/user-attachments/assets/27f0c50b-5468-4220-ace8-70ca6faa9343)
+
+![image](https://github.com/user-attachments/assets/c1ba4a33-bd14-44aa-9c30-068146b2b9a8)
+
+![image](https://github.com/user-attachments/assets/25005bff-a119-4735-882e-cdfd55fef1d7)
+
+![image](https://github.com/user-attachments/assets/f1b4ad3d-72e9-4e2e-b5f2-e065b0dfc034)
+
+
+
